@@ -1,2 +1,23 @@
-# Email-app
-This Django-based web application allows users to send emails directly from a web interface. It provides a simple, user-friendly form where users can enter the recipient's email address, subject, and message body. Once submitted, the app sends the email using the configured SMTP server.
+# 📧 Django Email Sender App
+
+A simple web application built using **Django** that allows users to send emails through a clean and user-friendly web interface. This project is ideal for learning how to integrate SMTP functionality with Django's form handling system.
+
+---
+
+## 🚀 Features
+
+- Send emails using SMTP (Gmail or custom servers)
+- Simple and clean user interface
+- Django form validation
+- Success and error message handling
+- Easy SMTP configuration in `settings.py`
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend**: Django (Python)
+- **Frontend**: HTML, CSS (Bootstrap optional)
+- **Email Service**: SMTP (e.g., Gmail)
+
+---
